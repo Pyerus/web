@@ -18,9 +18,9 @@
         <div class="Credit-square">
             <div class="credit-text">
                 <p class="Bold">CREATORS:</p>
-                <p class="indented">Ralph Justin Magbojos</p>
-                <p class="indented">Quincy Faye Tendilla</p>
-                <p class="indented">Sean Pyrus Novero</p>
+                <p class="indented">Ralph Justin</p>
+                <p class="indented">Quincy Faye</p>
+                <p class="indented">Sean Pyrus</p>
             </div>
         </div>
     </body>
